@@ -160,5 +160,6 @@ This project demonstrates an end-to-end analytics workflow combining **SQL, data
 
 Data Analyst | SQL | Power BI | DAX | Tableau | Python | Advanced Excel
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
+* LinkedIn:www.linkedin.com/in/hari-krishna-178397145
+
+* GitHub: https://github.com/harikrishna-analytics
